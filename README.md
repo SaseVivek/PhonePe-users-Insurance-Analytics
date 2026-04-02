@@ -173,7 +173,7 @@ View Layers:
 - ✅ **LAG()** window functions for all QoQ and YoY growth metrics
 - ✅ **MAX** for latest-quarter KPI card extraction from snapshot views
 - ❌ **No blind summation** of percentages or growth rates
-- ❌ **No business logic** defined in Power BI — all metrics in SQL
+  
 
 ---
 
@@ -186,9 +186,6 @@ View Layers:
 | `03_Data_Model_Architecture.docx` | Schema design, fact/dim tables, all views documented |
 | `04_Dashboard_Framework.docx` | All 6 dashboard pages with visual inventory and SQL sources |
 | `05_KPI_Governance_Framework.docx` | Every KPI with formula, SQL view, and actual values |
-| `01_Data_Assumptions.docx` | Aggregation rules, time coverage, governance principles |
-| `02_Data_Dictionary.docx` | Full column definitions, ranges, and dataset statistics |
-| `03_Region_Mapping.docx` | State-to-region mapping with user share breakdown |
 
 ---
 
